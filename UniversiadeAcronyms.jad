@@ -1,0 +1,10 @@
+MIDlet-1: Torino 2007,/icons/UniversiadeAcronyms.png,UniversiadeAcronyms
+MIDlet-Jar-URL: UniversiadeAcronyms.jar
+MIDlet-Icon: /icons/UniversiadeAcronyms.png
+MicroEdition-Configuration: CLDC-1.0
+MIDlet-Version: 0.1
+MIDlet-Vendor: Stefano Cotta Ramusino
+MIDlet-Name: Torino 2007
+MIDlet-Description: The acronyms of Winter Universiade of Torino 2007
+MIDlet-Info-URL: http://whitone.atspace.org/projects/UniversiadeAcronyms
+MicroEdition-Profile: MIDP-1.0

@@ -1,0 +1,25 @@
+Universiade Acronyms
+
+MIDlet created with EclipseME 1.1.0 and Sun J2ME Wireless Toolkit 2.2 [patch 200508].
+
+o How to build:
+
+  1. import the archive file in Eclipse
+  2. double click on UniversiadeAcronyms.java in the default package of the project
+  3. click on "Save" button to generate the class file
+  4. right click on UniversiadeAcronyms project
+  5. select "J2ME" from the menu and then "Create Package"
+  6. now in deployed directory there is the jar file
+
+o How to try:
+
+  1. follow the first 3 step of the previous howto
+  2. right click on UniversiadeAcronyms.java
+  3. select "Run As" and then "Emulated J2ME Midlet"
+
+o How to send MIDlet to phone:
+
+  use Bluetooth
+  or IrDA
+  or serial/USB cable
+
